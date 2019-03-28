@@ -6,3 +6,4 @@ puts "*****************************Second way"
 lines = File.foreach('readfile.txt') do |l|
 puts l
 end
+ 

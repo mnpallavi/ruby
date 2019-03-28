@@ -6,3 +6,4 @@ i -= 1
 end
 p arr
 p arr.uniq!
+ 

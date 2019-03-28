@@ -7,4 +7,4 @@ while number.length >= 2
    puts "\n#{number} ----------Sry only two digits"
    break
  end
-end
+end 

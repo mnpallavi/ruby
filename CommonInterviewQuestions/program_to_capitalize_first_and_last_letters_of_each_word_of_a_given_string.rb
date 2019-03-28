@@ -7,3 +7,4 @@ string.split.each do |w|
   arr << arr1.join("")
 end
 p arr.join(" ")
+ 

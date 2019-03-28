@@ -1,1 +1,1 @@
-puts "pallavi".reverse
+puts "pallavi".reverse 

@@ -1,2 +1,2 @@
 string = String(gets.chomp)
-p string.length
+p string.length 
