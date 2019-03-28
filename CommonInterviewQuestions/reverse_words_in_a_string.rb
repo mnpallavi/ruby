@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-puts "pallavi".reverse 
-=======
->>>>>>> master
+puts "pallavi".reverse

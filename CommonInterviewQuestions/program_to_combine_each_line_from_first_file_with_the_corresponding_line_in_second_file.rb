@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 output = []
 file1 = []
 file2 = []
@@ -10,7 +9,7 @@ File.foreach('readfile1.txt') do |l|
 file2 << l.chomp
 end
 
-length = file1.size + file2.size 
+length = file1.size + file2.size
 $i = 0
 while $i < length
   output << file1[$i]
@@ -18,5 +17,3 @@ while $i < length
   $i = $i + 1
 end
 p output.compact!.join(" ")
-=======
->>>>>>> master
