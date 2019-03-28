@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 string = String(gets.chomp)
 arr = []
 string.split.each do |w|
@@ -8,3 +9,5 @@ string.split.each do |w|
 end
 p arr.join(" ")
  
+=======
+>>>>>>> master

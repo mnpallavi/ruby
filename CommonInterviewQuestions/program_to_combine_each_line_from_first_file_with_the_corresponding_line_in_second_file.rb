@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 output = []
 file1 = []
 file2 = []
@@ -17,3 +18,5 @@ while $i < length
   $i = $i + 1
 end
 p output.compact!.join(" ")
+=======
+>>>>>>> master

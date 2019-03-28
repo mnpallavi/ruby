@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 arr = []
 i = 5
 while 0 < i
@@ -7,3 +8,5 @@ end
 p arr
 p arr.uniq!
  
+=======
+>>>>>>> master

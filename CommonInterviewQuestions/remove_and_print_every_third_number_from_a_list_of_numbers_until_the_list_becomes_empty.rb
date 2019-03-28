@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 number = "1234567890123456789"
 while number.length >= 2
   if number.length > 2
@@ -8,3 +9,5 @@ while number.length >= 2
    break
  end
 end 
+=======
+>>>>>>> master
